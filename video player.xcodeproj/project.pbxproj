@@ -13,6 +13,7 @@
 		2C2064792A1679400076D61E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C2064772A1679400076D61E /* Main.storyboard */; };
 		2C20647B2A1679450076D61E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C20647A2A1679450076D61E /* Assets.xcassets */; };
 		2C20647E2A1679450076D61E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C20647C2A1679450076D61E /* LaunchScreen.storyboard */; };
+		2C2064862A167B090076D61E /* archetypeQuiz.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C2064852A167B090076D61E /* archetypeQuiz.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2C20647A2A1679450076D61E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C20647D2A1679450076D61E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C20647F2A1679450076D61E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C2064852A167B090076D61E /* archetypeQuiz.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = archetypeQuiz.mp4; path = "../../../../Pictures/Art Uploads/archetypeQuiz.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		2C2064702A1679400076D61E /* video player */ = {
 			isa = PBXGroup;
 			children = (
+				2C2064852A167B090076D61E /* archetypeQuiz.mp4 */,
 				2C2064712A1679400076D61E /* AppDelegate.swift */,
 				2C2064732A1679400076D61E /* SceneDelegate.swift */,
 				2C2064752A1679400076D61E /* ViewController.swift */,
@@ -128,6 +131,7 @@
 				2C20647E2A1679450076D61E /* LaunchScreen.storyboard in Resources */,
 				2C20647B2A1679450076D61E /* Assets.xcassets in Resources */,
 				2C2064792A1679400076D61E /* Main.storyboard in Resources */,
+				2C2064862A167B090076D61E /* archetypeQuiz.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
